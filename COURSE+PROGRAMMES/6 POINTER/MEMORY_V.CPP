@@ -1,0 +1,62 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int a,*aa,b,*bb,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,*cc,*dd,*ee,*ff,*gg,*hh,*ii,*jj,*kk,*ll,*mm,*nn,*oo,*pp,*qq,*rr,*ss,*tt,*uu,*vv,*ww,*xx,*yy,*zz;
+clrscr();
+aa=&a;
+bb=&b;
+cc=&c;
+dd=&d;
+ee=&e;
+ff=&f;
+gg=&g;
+hh=&h;
+ii=&i;
+jj=&j;
+kk=&k;
+ll=&l;
+mm=&m;
+nn=&n;
+oo=&o;
+pp=&p;
+qq=&q;
+rr=&r;
+ss=&s;
+tt=&t;
+uu=&u;
+vv=&v;
+ww=&w;
+xx=&x;
+yy=&y;
+zz=&z;
+cout<<" Secreet Memory Values ";
+cout<<"\n++++++++++++++++++++++++++++++++++++++++++";
+cout<<"\nAddress of A="<<*aa;
+cout<<"   Address of B="<<*bb;
+cout<<"\tAddress of C="<<*cc;
+cout<<"\n                    Address of D="<<*dd;
+cout<<"   Address of E="<<*ee;
+cout<<"\nAddress of F="<<*ff;
+cout<<"\nAddress of G="<<*gg;
+cout<<"\nAddress of H="<<*hh;
+cout<<"\nAddress of I="<<*ii;
+cout<<"\nAddress of J="<<*jj;
+cout<<"\nAddress of K="<<*kk;
+cout<<"\nAddress of L="<<*ll;
+cout<<"\nAddress of M="<<*mm;
+cout<<"\nAddress of N="<<*nn;
+cout<<"\nAddress of O="<<*oo;
+cout<<"\nAddress of P="<<*pp;
+cout<<"\nAddress of Q="<<*qq;
+cout<<"\nAddress of R="<<*rr;
+cout<<"\nAddress of S="<<*ss;
+cout<<"\nAddress of T="<<*tt;
+cout<<"\nAddress of U="<<*uu;
+cout<<"\nAddress of V="<<*vv;
+cout<<"\nAddress of W="<<*ww;
+cout<<"\nAddress of X="<<*xx;
+cout<<"\nAddress of Y="<<*yy;
+cout<<"\nAddress of Z="<<*zz;
+getch();
+}
